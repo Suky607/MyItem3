@@ -1,3 +1,4 @@
+
 /* 轮播图 */
 .carousel-inner img {
     width: 100%;
@@ -36,12 +37,11 @@
 .heima-book > .container{
     width: 1000px;
 }
-@media screen and(max-width:768px)
-{
-    .heima-book > .container{
+@media screen and (max-width: 768px){
+    .heima_book > .container {
         width: 100%;
     }
-}
+    }
 .heima-book .heiam-icon
 {
     font-size: 20px;
